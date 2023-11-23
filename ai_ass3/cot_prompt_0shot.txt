@@ -1,0 +1,6 @@
+Instruction:
+Solve the following mathematical question and generate the answer after a tag, 'Answer: Let's think step by step.'.
+[Example 1]
+Question:
+{question}
+Answer: Let's think step by step.

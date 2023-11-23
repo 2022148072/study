@@ -1,0 +1,6 @@
+Instruction:
+Solve the following mathematical question and generate the answer with number after a tag, 'Answer(write only number):'.
+[Example 1]
+Question:
+{question}
+Answer(write only number):

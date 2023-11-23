@@ -1,0 +1,42 @@
+Instruction:
+Solve the following mathematical question and generate the answer after a tag, 'Answer:'.
+[Example 1]
+Question:
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+Answer:
+In April, Natalia sold 48 clips. In May, she sold half as many clips as in April, so in May, she sold 48 / 2 = 24 clips. To find the total clips sold altogether, add the clips sold in April and May: 48 + 24 = 72. The answer is 72
+
+[Example 2]
+Question:
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+Answer:
+Weng earns $12 per hour. She babysat for 50 minutes, which is 50/60 hours. To find the earnings, multiply the hourly rate by the fraction of an hour worked: $12 * (50/60) = $10. The answer is 10
+
+[Example 3]
+Question:
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+Answer:
+Betty needs $100 for the wallet and has half, which is $100 / 2 = $50. Her parents gave her $15, and her grandparents gave twice that amount, which is $15 * 2 = $30. To find the total money she has now, add the amounts: $50 + $15 + $30 = $95. To find how much more she needs, subtract this total from the cost of the wallet: $100 - $95 = $5. The answer is 5
+
+[Example 4]
+Question:
+Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?
+Answer:
+Julie read 12 pages yesterday. Today, she read twice as many, which is 12 * 2 = 24 pages. The total pages read so far are 12 + 24 = 36. The remaining pages are 120 - 36 = 84. To find how many pages she should read tomorrow, take half of the remaining pages: 84 / 2 = 42. The answer is 42
+
+[Example 5]
+Question:
+James writes a 3-page letter to 2 different friends twice a week.  How many pages does he write a year?
+Answer:
+James writes a 3-page letter twice a week to 2 friends, so each week he writes 3 * 2 * 2 = 12 pages. To find how many pages he writes in a year, multiply the weekly pages by the number of weeks in a year. If we assume there are 52 weeks in a year: 12 * 52 = 624. The answer is 624
+
+[Example 6]
+Question:
+Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?
+Answer:
+Mark has 10 yellow flowers. There are 80% more purple flowers than yellow, which is 80% of 10, or 0.8 * 10 = 8. So, Mark has 10 (yellow) + 8 (purple) = 18 yellow and purple flowers combined. There are 25% as many green flowers as yellow and purple, which is 25% of 18, or 0.25 * 18 = 4.5. Since we can't have half a flower, round up to the nearest whole number, which is 5. Mark has 10 (yellow) + 8 (purple) + 5 (green) = 23 flowers in his garden. The answer is 35
+
+[Example 7]
+Question:
+{question}
+Answer:
